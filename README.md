@@ -129,9 +129,7 @@ Areas I'm exploring:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=rose_pine&layout=compact" />
 </div>
 
 <br/>
