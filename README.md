@@ -5,8 +5,6 @@
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
 </div>
@@ -100,9 +98,9 @@ Areas I'm exploring:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Intannrna&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Intannrna&layout=compact)
 
 </div>
 
