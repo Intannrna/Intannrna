@@ -98,7 +98,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=f5c2d1&bg_color=00000000" width="80%"/>
 
 </div>
 
@@ -106,9 +106,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark" height="160"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=f5c2d1&bg_color=00000000" width="60%"/>
 
 </div>
 
@@ -134,5 +132,5 @@ Areas I'm exploring:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9de2,ffb3c6,ffc8dd,ffafcc&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:ffc2d1,100:ff9de2&gradient=1&bgColor=ffe5ec&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
