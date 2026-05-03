@@ -1,40 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9de2,ffb3c6,ffc8dd,ffafcc,bde0fe,a2d2ff&height=180&section=header&text=Hi%20there!%20I'm%20Intan%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9de2,ffb3c6,ffc8dd,ffafcc,bde0fe,a2d2ff&height=200&section=header&text=Hi!%20I'm%20Intan%20%F0%9F%8C%B8&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Data%20Analyst%20%26%20Web%20Developer&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### ✨ Data Analyst & Web Developer ✨
-#### turning data into stories & ideas into products 🌷
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=FF9DE2&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%93%8A;Web+Developer+%F0%9F%92%BB;Based+in+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Open+to+Collaborate+%F0%9F%8C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=FF9DE2&center=true&vCenter=true&width=550&lines=📊+Turning+data+into+stories...;💻+Building+ideas+into+products...;🌸+Based+in+Bandung%2C+Indonesia+🇮🇩;✨+Open+to+Collaborate!)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" style="border-radius:12px"/>
 
 ### 🌸 About Me
 
 ```python
 intan = {
-    "name"     : "Neng Intan Nuraeini",
-    "role"     : ["Data Analyst 📊", "Web Developer 💻"],
-    "location" : "Bandung, West Java 🇮🇩",
-    "passion"  : "Making data beautiful & useful",
-    "fun_fact" : "I think in charts 📈",
-    "open_to"  : ["Freelance", "Collaboration", "Full-time"]
+  "name"     : "Neng Intan Nuraeini",
+  "role"     : ["Data Analyst", "Web Developer"],
+  "location" : "Bandung, West Java 🇮🇩",
+  "passion"  : "Making data beautiful & useful",
+  "fun_fact" : "I think in charts",
+  "open_to"  : ["Freelance", "Collaboration", "Full-time"]
 }
 ```
 
-- 🔍 Currently working on **Bank Customer Churn Analysis**
-- 🌱 Learning **dbt** & **Next.js 14**
-- 💬 Ask me about **Python, SQL, or React**
-- 🎯 Goal 2025: **3 end-to-end data projects**
-- ☕ Powered by coffee & curiosity
+🔍 Currently working on **Bank Customer Churn Analysis**  
+🌱 Learning **dbt** & **Next.js 14**  
+💬 Ask me about **Python, SQL, or React**  
+🎯 Goal 2025: **3 end-to-end data projects**  
+☕ Powered by coffee & curiosity
+
+<br clear="right"/>
 
 ---
 
@@ -47,13 +46,13 @@ intan = {
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF6B35?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 **🌷 BI & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 **🌷 Database**
@@ -74,10 +73,15 @@ intan = {
 
 ### 🌷 Featured Projects
 
+<div align="center">
+
 | 🌸 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| [🏦 Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns | Python · Pandas · Seaborn |
-| [📊 Analytics Dashboard](#) | Real-time full-stack analytics platform | React · Node.js · PostgreSQL |
+|:----------|:--------------|:---------|
+| [🏦 Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & business insights | Python · Pandas · Seaborn |
+| [📊 Analytics Dashboard](#) | Real-time full-stack analytics platform with interactive charts | React · Node.js · PostgreSQL |
+| [🌐 Portfolio Website](#) | Personal site with dark mode & smooth animations | Next.js · TypeScript · Tailwind |
+
+</div>
 
 ---
 
@@ -85,14 +89,15 @@ intan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=555555&bg_color=fff9fb&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=555555&bg_color=fff9fb" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=888888&bg_color=fff9fb&count_private=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=888888&bg_color=fff9fb&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-![Snake animation](https://github.com/Intannrna/Intannrna/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=aaaaaa&background=fff9fb" height="165"/>
 
 </div>
 
@@ -104,6 +109,7 @@ intan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neng-intan-nuraeini-781749347/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intannrnaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Intannrna)
 
 </div>
 
@@ -111,7 +117,7 @@ intan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9de2,ffb3c6,ffc8dd,ffafcc,bde0fe,a2d2ff&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a2d2ff,bde0fe,ffafcc,ffc8dd,ffb3c6,ff9de2&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 *"Data tells a story — I just make sure it's a good one." 🌸*
 
