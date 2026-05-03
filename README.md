@@ -9,7 +9,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=header"/>
+
+</div>
 
 ### About Me
 
