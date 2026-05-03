@@ -123,15 +123,15 @@ Areas I'm exploring:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117&border_color=ff69b4" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" />
 </div>
 
 <br/>
