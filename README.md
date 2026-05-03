@@ -88,7 +88,7 @@ Areas I'm exploring:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
-| [Portfolio Website](#) | Personal site with dark mode & smooth animations | Next.js · TypeScript · Tailwind |
+| [Portfolio Website](https://github.com/Intannrna/RoxyDental) | Frontend-focused| Next.js · TypeScript · Tailwind |
 
 </div>
 
