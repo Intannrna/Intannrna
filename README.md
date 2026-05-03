@@ -123,12 +123,6 @@ Areas I'm exploring:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&background=0d1117&stroke=bbbbbb&ring=ff69b4&fire=ff85c1&currStreakNum=ffb6c1&currStreakLabel=ff69b4&sideNums=cccccc&sideLabels=aaaaaa&dates=999999" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark" />
 </div>
 
