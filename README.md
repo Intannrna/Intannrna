@@ -54,7 +54,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=fadeIn&gradient=ff9de2,f5c2d1,ffc1cc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
 
 </div>
 
@@ -90,7 +90,11 @@ Areas I'm exploring:
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
+
+</div>
 
 ### Featured Projects
 
@@ -103,7 +107,11 @@ Areas I'm exploring:
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
+
+</div>
 
 ### GitHub Stats
 
@@ -129,7 +137,11 @@ Areas I'm exploring:
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
+
+</div>
 
 ### Let's Connect
 
