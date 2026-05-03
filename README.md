@@ -5,7 +5,7 @@
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+innovative+solutions...;Crafting+data+stories)](https://github.com/Intannrna)
 
 </div>
 
@@ -87,7 +87,7 @@ Areas I'm exploring:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
+| [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · NumPy · Matplotlib |
 | [Website klinik gigi](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
 
 </div>
@@ -98,7 +98,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="./profile-summary-card-output/profile-details.svg" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=f5c2d1&bg_color=00000000)
 
 </div>
 
@@ -106,9 +106,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="./profile-summary-card-output/repos-per-language.svg" height="160"/>
-&nbsp;&nbsp;&nbsp;
-<img src="./profile-summary-card-output/most-commit-language.svg" height="160"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=f5c2d1&bg_color=00000000)
 
 </div>
 
@@ -116,7 +114,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=888888&background=0d1117&stroke=30363d&currStreakNum=ff9de2&sideNums=c9d1d9" height="160"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=888888&background=0d1117&stroke=30363d&currStreakNum=f5c2d1)
 
 </div>
 
@@ -134,5 +132,5 @@ Areas I'm exploring:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:ffc2d1,100:ff9de2&gradient=1&bgColor=ffe5ec&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:ffc2d1,100:ff9de2&gradient=1&bgColor=ffe5ec&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff" width="100%"/>
 </div>
