@@ -66,7 +66,6 @@ Areas I'm exploring:
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Web Development**
@@ -114,7 +113,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Intannrna&hide_border=true&background=0d1117&stroke=ffffff&ring=ff69b4&fire=ff85c1&currStreakNum=ffb6c1&currStreakLabel=ff69b4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Intannrna&hide_border=true&background=0d1117&stroke=bbbbbb&ring=ff69b4&fire=ff85c1&currStreakNum=ffb6c1&currStreakLabel=ff69b4&sideNums=cccccc&sideLabels=aaaaaa&dates=999999)
 
 </div>
 
