@@ -1,9 +1,11 @@
 <div align="center">
 
-<h1>Hi, I'm Intan</h1>
+<h1>Hi, I'm Intan 👋</h1>
 
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
@@ -88,7 +90,7 @@ Areas I'm exploring:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
-| [Portfolio Website](https://github.com/Intannrna/RoxyDental) | Frontend-focused| Next.js · TypeScript · Tailwind |
+| [Website Klinik Gigi](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
 
 </div>
 
@@ -98,7 +100,15 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=c9d1d9&dates=8b949e&background=00000000&stroke=30363d&currStreakNum=ffffff&sideNums=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=888888&bg_color=00000000&count_private=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=888888&bg_color=00000000&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=888888&background=00000000&stroke=888888&currStreakNum=ff9de2&sideNums=888888" height="165"/>
 
 </div>
 
