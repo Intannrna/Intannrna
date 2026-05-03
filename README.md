@@ -1,12 +1,26 @@
 <div align="center">
 
-# Hi, I'm Intan
+<!-- Animated Header SVG -->
+<svg width="100%" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9de2"/>
+      <stop offset="50%" stop-color="#bde0fe"/>
+      <stop offset="100%" stop-color="#ff9de2">
+        <animate attributeName="stop-color" values="#ff9de2;#a2d2ff;#ff9de2" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="4" fill="url(#g1)">
+    <animate attributeName="x" from="-800" to="800" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="72" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="42" font-weight="800" fill="#ffffff">Hi, I'm Intan 👋</text>
+  <text x="400" y="106" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#8b949e">Data Analyst · Web Developer · Business Analysis Enthusiast</text>
+  <text x="400" y="132" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">Bandung, West Java, Indonesia</text>
+  <rect y="156" width="800" height="4" fill="url(#g1)"/>
+</svg>
 
-**Data Analyst · Web Developer · Business Analysis Enthusiast**
-
-*Bandung, West Java, Indonesia*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=620&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
 </div>
 
