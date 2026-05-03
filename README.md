@@ -123,13 +123,21 @@ Areas I'm exploring:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=f5c2d1&bg_color=00000000&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&background=0d1117&stroke=bbbbbb&ring=ff69b4&fire=ff85c1&currStreakNum=ffb6c1&currStreakLabel=ff69b4&sideNums=cccccc&sideLabels=aaaaaa&dates=999999" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=f5c2d1&bg_color=00000000&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark" />
 </div>
 
 <br/>
