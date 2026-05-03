@@ -1,11 +1,9 @@
 <div align="center">
 
-<h1>Hi, I'm Intan</h1>
+<h1>Hi, I'm Intan </h1>
 
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
@@ -90,7 +88,7 @@ Areas I'm exploring:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
-| [Portfolio Website](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
+| [Website klinik gigi](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
 
 </div>
 
@@ -100,7 +98,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=transparent" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intannrna&theme=github_dark" width="100%"/>
 
 </div>
 
@@ -108,9 +106,9 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=transparent" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Intannrna&theme=github_dark" height="160"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=transparent" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Intannrna&theme=github_dark" height="160"/>
 
 </div>
 
@@ -118,19 +116,9 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=888888&background=00000000&stroke=888888&currStreakNum=ff9de2&sideNums=888888" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=888888&dates=888888&background=0d1117&stroke=30363d&currStreakNum=ff9de2&sideNums=c9d1d9" height="160"/>
 
 </div>
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake.svg" width="100%"/>
-</picture>
 
 ---
 
@@ -140,7 +128,6 @@ Areas I'm exploring:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neng-intan-nuraeini-781749347/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intannrnaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Intannrna)
 
 </div>
 
