@@ -98,14 +98,17 @@ Areas I'm exploring:
 
 ### Featured Projects
 
-<div align="center">
+### Bank Customer Churn Analysis
+> EDA on 10K+ bank customers to uncover churn patterns & actionable business insights
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · NumPy · Matplotlib |
-| [Website klinik gigi](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
+`Python` `Pandas` `NumPy` `Matplotlib`
 
-</div>
+---
+
+### Website Klinik Gigi
+> Frontend-focused personal portfolio
+
+`Next.js` `TypeScript` `Tailwind`
 
 <div align="center">
 
