@@ -114,7 +114,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff69b4&fire=ff85c1&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff&background=0d1117&stroke=ffffff&currStreakNum=ffb6c1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Intannrna&hide_border=true&background=0d1117&stroke=ffffff&ring=ff69b4&fire=ff85c1&currStreakNum=ffb6c1&currStreakLabel=ff69b4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
