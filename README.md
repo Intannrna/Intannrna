@@ -36,7 +36,11 @@ intan = {
 - Goal 2025: **3 end-to-end data projects**
 - Powered by dark chocolate and a good slice of cake
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
+
+</div>
 
 ### What I'm Interested In
 
