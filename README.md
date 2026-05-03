@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=FF9DE2&center=true&vCenter=true&width=600&lines=Turning+data+into+stories...;Building+ideas+into+products...;Based+in+Bandung%2C+Indonesia;Open+to+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=FF9DE2&center=true&vCenter=true&width=620&lines=Turning+data+into+stories...;Building+ideas+into+products...;Based+in+Bandung%2C+Indonesia;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,13 +21,15 @@ intan = {
   "name"     : "Neng Intan Nuraeini",
   "role"     : ["Data Analyst", "Web Developer"],
   "location" : "Bandung, West Java, Indonesia",
-  "passion"  : "Making data beautiful & useful",
-  "fun_fact" : ["I think in charts", "Fueled by chocolate & cake"],
+  "interests": ["Business Analysis", "Data Storytelling", "Web Development"],
+  "passion"  : "Turning raw data into business decisions",
+  "fuel"     : ["dark chocolate", "cake"],
   "open_to"  : ["Freelance", "Collaboration", "Full-time"]
 }
 ```
 
 - Currently working on **Bank Customer Churn Analysis**
+- Interested in **Business Analysis** — uncovering insights that drive real decisions
 - Learning **dbt** & **Next.js 14**
 - Ask me about **Python, SQL, or React**
 - Goal 2025: **3 end-to-end data projects**
@@ -77,9 +79,22 @@ intan = {
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & business insights | Python · Pandas · Seaborn |
+| [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
+| [Portfolio Website](#) | Personal site with dark mode & smooth animations | Next.js · TypeScript · Tailwind |
 
 </div>
+
+---
+
+### What I'm Interested In
+
+I enjoy working at the intersection of **data and business strategy** — asking the right questions, finding patterns in the noise, and translating them into decisions that actually matter.
+
+Areas I'm exploring:
+- Customer behavior & retention analysis
+- Business performance metrics & KPI dashboards
+- Market segmentation & growth analysis
+- End-to-end reporting for business stakeholders
 
 ---
 
