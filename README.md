@@ -98,14 +98,6 @@ Areas I'm exploring:
 
 <div align="center">
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Intannrna&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Intannrna&layout=compact)
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=c9d1d9&dates=8b949e&background=00000000&stroke=30363d&currStreakNum=ffffff&sideNums=c9d1d9" height="165"/>
 
 </div>
