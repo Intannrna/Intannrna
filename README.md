@@ -96,25 +96,21 @@ Areas I'm exploring:
 
 </div>
 
-### Featured Projects
+## 🌸 Featured Projects
 
-### Bank Customer Churn Analysis
-> EDA on 10K+ bank customers to uncover churn patterns & actionable business insights
+---
+
+### [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis)
+> EDA on 10K+ bank customers — uncover churn patterns & actionable business insights
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
-### Website Klinik Gigi
-> Frontend-focused personal portfolio
+### [Website Klinik Gigi](https://github.com/Arfazrll/POLABDC)
+> Frontend-focused personal portfolio with modern UI
 
 `Next.js` `TypeScript` `Tailwind`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=false&animation=twinkling&gradient=ff69b4,ff85c1,ffc0cb" width="100%"/>
-
-</div>
 
 ### GitHub Stats
 
