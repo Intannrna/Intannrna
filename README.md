@@ -1,9 +1,11 @@
 <div align="center">
 
-<h1>Hi, I'm Intan </h1>
+<h1>Hi, I'm Intan</h1>
 
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF9DE2&center=true&vCenter=true&width=640&lines=Turning+data+into+business+decisions...;Building+ideas+into+products...;Passionate+about+Business+Analysis;Open+to+Collaborate!)](https://git.io/typing-svg)
 
@@ -66,6 +68,7 @@ Areas I'm exploring:
 
 **Database**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Web Development**
@@ -87,7 +90,7 @@ Areas I'm exploring:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [Bank Customer Churn Analysis](https://github.com/Intannrna/bank-customer-churn-analysis) | EDA on 10K+ bank customers to uncover churn patterns & actionable business insights | Python · Pandas · Seaborn |
-| [Website Klinik Gigi](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
+| [Portfolio Website](https://github.com/Intannrna/RoxyDental) | Frontend-focused personal portfolio | Next.js · TypeScript · Tailwind |
 
 </div>
 
@@ -121,6 +124,16 @@ Areas I'm exploring:
 
 ---
 
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Intannrna/Intannrna/output/github-snake.svg" width="100%"/>
+</picture>
+
+---
+
 ### Let's Connect
 
 <div align="center">
@@ -131,10 +144,8 @@ Areas I'm exploring:
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-*"Data tells a story — I just make sure it's a good one."*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9de2,ffb3c6,ffc8dd,ffafcc&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
