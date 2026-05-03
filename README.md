@@ -98,7 +98,7 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=f5c2d1&bg_color=00000000" width="80%"/>
+<img src="./profile-summary-card-output/profile-details.svg" width="100%"/>
 
 </div>
 
@@ -106,7 +106,9 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=f5c2d1&bg_color=00000000" width="60%"/>
+<img src="./profile-summary-card-output/repos-per-language.svg" height="160"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./profile-summary-card-output/most-commit-language.svg" height="160"/>
 
 </div>
 
