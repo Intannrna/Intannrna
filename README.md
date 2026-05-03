@@ -52,7 +52,11 @@ Areas I'm exploring:
 - Market segmentation & growth analysis
 - End-to-end reporting for business stakeholders
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=fadeIn&gradient=ff9de2,f5c2d1,ffc1cc" width="100%"/>
+
+</div>
 
 ### Tech Stack
 
