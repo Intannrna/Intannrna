@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Intan 👋</h1>
+<h1>Hi, I'm Intan</h1>
 
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
@@ -100,9 +100,9 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=c9d1d9&bg_color=00000000&count_private=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=c9d1d9&bg_color=00000000&langs_count=6" height="165"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact)
 
 </div>
 
