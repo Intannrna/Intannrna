@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Intan</h1>
+<h1>Hi, I'm Intan 👋</h1>
 
 <p><strong>Data Analyst · Web Developer · Business Analysis Enthusiast</strong></p>
 <p><sub>Bandung, West Java, Indonesia</sub></p>
@@ -100,15 +100,15 @@ Areas I'm exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Intannrna&show_icons=true&hide_border=true&title_color=ff9de2&icon_color=ffb3c6&text_color=c9d1d9&bg_color=00000000&count_private=true&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intannrna&layout=compact&hide_border=true&title_color=ff9de2&text_color=c9d1d9&bg_color=00000000&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=c9d1d9&dates=8b949e&background=0d1117" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Intannrna&hide_border=true&ring=ff9de2&fire=ffb3c6&currStreakLabel=ff9de2&sideLabels=c9d1d9&dates=8b949e&background=00000000&stroke=30363d&currStreakNum=ffffff&sideNums=c9d1d9" height="165"/>
 
 </div>
 
